@@ -1,4 +1,4 @@
-# A3-trabalho
+
 Jogo da advinhacao Python
 
 import random
